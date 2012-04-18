@@ -1,0 +1,5 @@
+A really simple django app that provides some basic interface to create and manage article news.
+This was one of the first django apps I made but I found myself using it quite often, and everytime I use it I made some changes. 
+
+Well, this might be usefull to someone so feel free to use it and change it :)
+

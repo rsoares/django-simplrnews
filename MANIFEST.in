@@ -1,0 +1,4 @@
+include README
+recursive-include news/templates *
+recursive-include news/static *
+
